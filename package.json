@@ -49,8 +49,7 @@
     "build:dist": "rollup -c",
     "build:flow": "echo \"// @flow\n\nexport * from '../src';\" > dist/react-ui-dnd.cjs.js.flow",
     "storybook": "start-storybook -p 9002",
-    "build-storybook": "build-storybook -c .storybook -o site",
-    "prepublishOnly": "yarn build"
+    "build-storybook": "build-storybook -c .storybook -o site"
   },
   "dependencies": {
     "@babel/runtime": "^7.9.2",
