@@ -24,13 +24,27 @@
     }
   },
   "dist\\react-ui-dnd.js": {
-    "bundled": 358416,
-    "minified": 131153,
-    "gzipped": 39086
+    "bundled": 357648,
+    "minified": 130385,
+    "gzipped": 38965
   },
   "dist\\react-ui-dnd.min.js": {
-    "bundled": 299441,
-    "minified": 106797,
-    "gzipped": 30887
+    "bundled": 299434,
+    "minified": 106790,
+    "gzipped": 30906
+  },
+  "dist\\react-ui-dnd.esm.js": {
+    "bundled": 238603,
+    "minified": 124708,
+    "gzipped": 32453,
+    "treeshaked": {
+      "rollup": {
+        "code": 21088,
+        "import_statements": 503
+      },
+      "webpack": {
+        "code": 23976
+      }
+    }
   }
 }
