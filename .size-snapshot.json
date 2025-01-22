@@ -1,0 +1,36 @@
+{
+  "dist/react-ui-dnd.js": {
+    "bundled": 364998,
+    "minified": 133574,
+    "gzipped": 39437
+  },
+  "dist/react-ui-dnd.min.js": {
+    "bundled": 306810,
+    "minified": 108365,
+    "gzipped": 31340
+  },
+  "dist/react-ui-dnd.esm.js": {
+    "bundled": 240910,
+    "minified": 125371,
+    "gzipped": 32650,
+    "treeshaked": {
+      "rollup": {
+        "code": 21121,
+        "import_statements": 503
+      },
+      "webpack": {
+        "code": 24005
+      }
+    }
+  },
+  "dist\\react-ui-dnd.js": {
+    "bundled": 358416,
+    "minified": 131153,
+    "gzipped": 39086
+  },
+  "dist\\react-ui-dnd.min.js": {
+    "bundled": 299441,
+    "minified": 106797,
+    "gzipped": 30887
+  }
+}
